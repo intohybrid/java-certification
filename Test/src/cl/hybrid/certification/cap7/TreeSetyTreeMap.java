@@ -23,7 +23,7 @@ public class TreeSetyTreeMap {
 		
 		System.out.println(treeMap.ceilingEntry(3)); //el más cercano hacia arriba o igual
 		System.out.println(treeMap.higherEntry(3)); // el más cercano hacia arriba NO igual
-		System.out.println(treeMap.higherKey(3));//Solo la llave
+		System.out.println(treeMap.higherKey(3));//Solo la llave 
 		System.out.println(treeMap.floorEntry(5));
 		System.out.println(treeMap.floorKey(5));
 		System.out.println(treeMap.lowerEntry(5));//al igual que higher, no se cuenta si es igual
