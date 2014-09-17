@@ -11,17 +11,14 @@ public class Arreglos {
 		System.out.println(textos.toString());
 		Arrays.sort(textos,new Ordenar());
 		System.out.println(textos.toString());
-		
-		
+	
 		
 		
 	}
 	
 	
 	private <T>void imprimir(T[] arreglo){
-		for(){
-			
-		}
+		
 	}
 }
 
